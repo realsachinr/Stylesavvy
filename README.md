@@ -1,6 +1,10 @@
 # Stylesavvy
 
 Firstly Install = npm i vite
+
+Deploy Link - https://stylesavvy-gilt.vercel.app/
+
+
 This fashion website, my debut project for my internship, is crafted using HTML and CSS. It showcases a range of stylish clothing and accessories, curated for the fashion-forward. With a sleek design and intuitive layout, navigating through the website is effortless. Explore the latest trends and elevate your wardrobe effortlessly. Enjoy a seamless shopping experience while immersing yourself in the world of fashion. Welcome to your one-stop destination for chic style.
 
                                             ==================== Screenshot ====================
